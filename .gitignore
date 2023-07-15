@@ -1,0 +1,53 @@
+# Built application files
+*.apk
+*.ap_
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (e.g., for Firebase SDK)
+google-services.json
+
+# Android Studio configuration files
+.idea/
+*.iml
+.gradle/
+/local.properties
+
+# Keystore files
+*.jks
+
+# User-specific files
+**/out/
+**/local.properties
+**/.idea/workspace.xml
+**/.idea/tasks.xml
+**/.idea/vcs.xml
+**/.idea/gradle.xml
+**/.idea/dictionaries
+**/.idea/libraries
+**/.idea/caches
+
+# Generated files
+bin/
+gen/
+build/
+
+# Crashlytics
+com_crashlytics_export_strings.xml
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild
+
+# Local configuration file (e.g., ProGuard configuration)
+proguard-rules.pro
+
+# Log files
+*.log
